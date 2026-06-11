@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm Balasubramanian
 
-<!--
-**balasubramanian342/balasubramanian342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- AI/ML Developer
+- Interested in learning Java Full Stack Development
+- Skilled in Java, Python and SQL
+- Currently learning Spring Boot
+- Passionate about Backend Development and Machine Learning
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Java
+- Python
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+
+### Backend
+- Spring Boot
+- Flask
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- VS Code
+- Docker
+
+## Projects
+
+### 1. Mule Account
+**Tech Stack:** Python, Machine Learning
+
+- Random Forest Classifier model.
+
+### 2. Health Guard
+**Tech Stack:** Python, React, Node.js, PostgreSQL
+
+- ML-powered prediction system.
+- SHAP Explainable AI.
+- Dashboard for patients and care teams.
+- Ensemble models using Random Forest, CatBoost, XGBoost, LightGBM and ExtraTrees.
+
+### 3. Talking Fingers
+**Tech Stack:** Python, OpenCV, Keras, NumPy
+
+- Computer vision and AI-based gesture recognition.
+
+## Contact
+
+📧 Email: balaasub06@gmail.com
